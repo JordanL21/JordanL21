@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JordanL21
-- 👀 I’m interested in learning more about coding and game design
-- 🌱 I’m currently learning python, C#, and Unreal Engine
-- 💞️ I’m looking to collaborate on anythign AI or Game Development
+- 👀 I’m interested in learning more about game development and design
+- 🌱 I’m currently learning C# and Unity
+- 💞️ I’m looking to collaborate on anything Game Development
 - 📫 How to reach me: jlew457@gmail.com
