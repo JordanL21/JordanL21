@@ -2,4 +2,3 @@
 - 👀 I’m interested in learning more about game development and design
 - 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on anything Game Development
-- 📫 How to reach me: jlew457@gmail.com
